@@ -1,0 +1,19 @@
+ img
+{
+
+  float: left;
+  padding:25px;
+
+  position:absolute;
+    left: 70px;
+    
+}
+ li{
+  list-style-type: none;
+  float: left;
+  position:absolute;
+    right: 110px;
+    top: 68px;
+    font-size: 30px;
+    color: black;
+}
